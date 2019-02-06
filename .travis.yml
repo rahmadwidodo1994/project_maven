@@ -3,3 +3,4 @@ deploy:
         provider: heroku
         api_key:
                 secure: "888d4184-f36a-4efe-94b4-895187ec8aa5"
+                app: project_maven
